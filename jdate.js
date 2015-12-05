@@ -3,7 +3,7 @@
  * @date 2015-12-05
  *
  */
-(function(){
+(function(window){
     var jDate = function(dateString){
 
         return new jDate.fn.init(dateString);
@@ -94,4 +94,4 @@
     init.prototype = jDate.fn;
 
     window.jDate = jDate;
-})();
+})(this);
