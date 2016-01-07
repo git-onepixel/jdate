@@ -1,2 +1,6 @@
 1、Add the file local
 2、Update the file remote
+3、Update the file by vi
+4、quit
+5、Add the string :Hello vi !
+6、opt save
