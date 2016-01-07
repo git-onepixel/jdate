@@ -4,3 +4,5 @@
 4、quit
 5、Add the string :Hello vi !
 6、opt save
+7、update by cmd 
+
